@@ -30,9 +30,9 @@
     "@ember/optional-features": "^2.0.0",
     "@ember/string": "^3.0.1",
     "@ember/test-helpers": "^2.9.3",
-    "@embroider/compat": "^2.1.1",
-    "@embroider/core": "^2.1.1",
-    "@embroider/webpack": "^2.1.1",
+    "@embroider/compat": "^3.0.1-unstable.d950e6a",
+    "@embroider/core": "^3.0.1-unstable.d950e6a",
+    "@embroider/webpack": "^3.0.1-unstable.d950e6a",
     "@glimmer/component": "^1.1.2",
     "@glimmer/tracking": "^1.1.2",
     "broccoli-asset-rev": "^3.0.0",
@@ -42,6 +42,7 @@
     "ember-cli-app-version": "^6.0.0",
     "ember-cli-babel": "^7.26.11",
     "ember-cli-dependency-checker": "^3.3.1",
+    "ember-cli-fastboot": "^4.1.1",
     "ember-cli-htmlbars": "^6.2.0",
     "ember-cli-inject-live-reload": "^2.1.0",
     "ember-data": "~4.11.3",
@@ -68,7 +69,7 @@
     "stylelint-config-standard": "^32.0.0",
     "stylelint-prettier": "^3.0.0",
     "tracked-built-ins": "^3.1.1",
-    "webpack": "^5.78.0"
+    "webpack": "^5.85.0"
   },
   "engines": {
     "node": "14.* || 16.* || >= 18"
